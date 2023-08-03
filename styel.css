@@ -1,0 +1,48 @@
+body{
+background-color: rgb(44, 44, 218);
+
+}
+
+.img1 {
+width:840px ;
+height: 585px;
+float: right;
+}
+.img2{
+ width: 367px;
+margin-top: 13px;
+background-color: blue;
+margin-left: 30px;
+} 
+.img4{
+width: 300px;
+position: absolute;
+bottom: 120px;
+right: 60px;
+
+}
+.img-d-2{
+height: 200px;
+background-color: rgb(30, 0, 255);
+
+
+
+
+
+}
+.fig{
+
+height: 30px;
+color: white;
+text-align: center;
+
+
+}
+.maincontaner{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+    flex-wrap: wrap;
+}.div1{
+}
